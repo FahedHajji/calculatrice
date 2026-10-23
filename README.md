@@ -10,4 +10,4 @@ Web calculator made with HTML, CSS and JavaScript.
 - Automatic input cleanup (`.5` becomes `0.5`, repeated operators are replaced)
 
 ## Live demo
-https://your-username.github.io/calculatrice/
+https://fahedhajji.github.io/calculatrice/calc.html
